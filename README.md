@@ -14,7 +14,7 @@ CNN + LSTM - Marteinn
 
 3D-CNN - Jivan
 
-KTH Classes: 'boxing', 'handclapping', 'handwaving', 'jogging', 'running', 'walking' 
+**KTH Classes:** 'boxing', 'handclapping', 'handwaving', 'jogging', 'running', 'walking' 
 
 ## Topic and Motivation
 
