@@ -14,6 +14,8 @@ CNN + LSTM - Marteinn
 
 3D-CNN - Jivan
 
+KTH Classes: 'boxing', 'handclapping', 'handwaving', 'jogging', 'running', 'walking' 
+
 ## Topic and Motivation
 
 Human Activity Recognition (HAR) has seen significant progress in recent years, aiming to automate activity recognition from sensory inputs such as cameras or sensors [1]. Recent work has extended HAR toward anomaly detection using deep learning models, demonstrating strong performance on benchmark datasets [2]. 
