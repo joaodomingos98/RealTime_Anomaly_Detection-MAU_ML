@@ -14,7 +14,9 @@ CNN + LSTM - Marteinn
 
 3D-CNN - Jivan
 
-**KTH Classes:** 'boxing', 'handclapping', 'handwaving', 'jogging', 'running', 'walking' 
+ ## Hyperparameters & Measurable Metrics
+
+ 
 
 ## Topic and Motivation
 
@@ -47,7 +49,7 @@ Despite these opportunities, existing approaches often struggle to generalize ac
 
 ### Existing Datasets
 We utilize the **KTH Action Recognition Dataset (2004)**, which contains:
-* **Classes:** 6 human activities (walking, running, jogging, boxing, handclapping, and hand waving).
+* **Classes:** 6 human activities - 'boxing', 'handclapping', 'handwaving', 'jogging', 'running', 'walking' 
 * **Subjects & Scenarios:** Performed by 25 subjects across 4 scenarios (outdoors, different angles, different clothing, indoors).
 * **Volume:** 600 videos total (100 videos per class).
 * **Format:** Recorded at 25fps with a homogeneous background. 
