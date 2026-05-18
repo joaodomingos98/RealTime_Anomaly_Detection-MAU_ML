@@ -15,7 +15,15 @@ CNN + LSTM - Marteinn
 3D-CNN - Jivan
 
  ## Hyperparameters & Measurable Metrics
-
+ 
+    - SEED
+    - TEST_SPLIT (0.2)
+    - VAL_SPLIT (0.2)
+    - BATCH_SIZE
+    - NR_EPOCHS
+    - LEARNING_RATE
+    - CLIP_LEN
+    - MODEL
  
 
 ## Topic and Motivation
