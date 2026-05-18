@@ -16,7 +16,7 @@ CNN + LSTM - Marteinn
 
  ## Hyperparameters & Measurable Metrics
  
-    - SEED
+    - SEED (=0)
     - TEST_SPLIT (0.2)
     - VAL_SPLIT (0.2)
     - BATCH_SIZE
